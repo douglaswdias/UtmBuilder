@@ -1,0 +1,11 @@
+C:\Dev\UtmBuilder\utmBuilder.core\bin\Debug\net8.0\UtmBuilder.Core.deps.json
+C:\Dev\UtmBuilder\utmBuilder.core\bin\Debug\net8.0\UtmBuilder.Core.dll
+C:\Dev\UtmBuilder\utmBuilder.core\bin\Debug\net8.0\UtmBuilder.Core.pdb
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\UtmBuilder.Core.AssemblyInfoInputs.cache
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\UtmBuilder.Core.AssemblyInfo.cs
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\UtmBuilder.Core.csproj.CoreCompileInputs.cache
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\UtmBuilder.Core.dll
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\refint\UtmBuilder.Core.dll
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\UtmBuilder.Core.pdb
+C:\Dev\UtmBuilder\utmBuilder.core\obj\Debug\net8.0\ref\UtmBuilder.Core.dll
